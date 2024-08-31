@@ -1,7 +1,7 @@
 /*
 ============================================================================
 Name : 3.c
-Author : Jerome Joseph
+Author : Shane Gomes
 Description : Write a program to create a file and print the file descriptor value. Use creat ( ) system call
 Date: 31st Aug, 2024.
 ============================================================================
