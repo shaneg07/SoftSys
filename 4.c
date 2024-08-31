@@ -27,15 +27,3 @@ int main(int argc, char** argv) {
         printf("Usage: [executable] [filename]\n");
     }
 }
-
-/*
-❯ ./main                                     ─╯
-Usage: [executable] [filename]
-
-❯ ./main file1                               ─╯
-File Opened Successfuly!
-
-❯ ./main file2                               ─╯
-Error: No such file or directory
-
-*/
