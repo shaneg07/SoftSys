@@ -49,3 +49,10 @@ int main(int argc, char** argv) {
         printf("Usage: [executable] [filename]\n");
     }
 }
+
+/*
+
+shane-laptop@shane-laptop:~/SoftSys/8$./8.o a.txt 
+shane gomes - test file
+
+*/

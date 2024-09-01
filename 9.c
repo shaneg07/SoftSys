@@ -51,3 +51,20 @@ int main(int argc, char** argv) {
 
     return 0;
 }
+
+/* 
+
+shane-laptop@shane-laptop:~/SoftSys$ ./9.o a.o 
+File: a.o
+Inode: 6723
+Number of hard links: 1
+UID: 1000
+GID: 1000
+Size: 15776 bytes
+Block size: 4096 bytes
+Number of blocks: 32
+Time of last access: Thu Aug 29 09:13:56 2024
+Time of last modification: Thu Aug 29 09:13:51 2024
+Time of last change: Thu Aug 29 09:13:51 2024
+
+*/
