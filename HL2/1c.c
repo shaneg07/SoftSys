@@ -47,11 +47,8 @@ int main() {
 
 /*
 ============================================================================
-Command line: cc 1c.c && ./a.out
-Output: 
+shane-laptop@shane-laptop:/mnt/c/Users/shane/Desktop/HL2$ ./1c.o
 Timer expired (ITIMER_PROF)
 Timer expired (ITIMER_PROF)
-...
-(every 10 sec 10 usec)
 ============================================================================
 */
