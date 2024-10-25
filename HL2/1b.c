@@ -53,7 +53,5 @@ int main() {
 shane-laptop@shane-laptop:/mnt/c/Users/shane/Desktop/HL2$ ./1b.o
 Timer expired (ITIMER_VIRTUAL)
 Timer expired (ITIMER_VIRTUAL)
-...
-(every 10 sec 10 usec)
 ============================================================================
 */
