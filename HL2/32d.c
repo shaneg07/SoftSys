@@ -1,6 +1,6 @@
 /*
 ============================================================================
-Name : 31.c
+Name : 32d.c
 Author : Shane Gomes
 Roll no : MT2024139
 Description :Write a program to implement semaphore to protect any critical section.
