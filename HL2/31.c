@@ -28,12 +28,11 @@ int main()
     printf("binary semaphore created\n");
     semctl(semid, 0, SETVAL, arg); 
 
-    semun args;
     key = ftok(".", 4);
-    semid = semget(key, 1, IPC_CREAT | 0744);
-    args.val = 10; 
-    printf("counting semaphore created size is :%d \n", args.val);
-    semctl(semid, 1, SETVAL, args); 
+    semid = semget(key, 0, IPC_CREAT | 0744);
+    arg.val = 10; 
+    printf("counting semaphore created size is :%d \n", arg.val);
+    semctl(semid, 0, SETVAL, arg); 
 
     return 0;
 }
